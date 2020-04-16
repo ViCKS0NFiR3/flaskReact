@@ -1,0 +1,70 @@
+{"_id": {"$oid": "5e211cc4d28caa5bbd9f1879"}, "firstName": "Eukris", "lastName": "Songahid", "userName": "yellow_candy122", "passWord": "pbkdf2:sha256:150000$PSQqJUnz$5e37a44c2353d3cb6d65d18f6542c7caa932efb66bae946889952fc432e99062", "dateCreated": {"$date": 1579257156912}, "address": "Brgy. Socorro, Cubao, Quezon City", "contactNo": "+639052329674", "email": "yellow_candy122@gmail.com", "age": 23}, {"_id": {"$oid": "5e2188bd5d6353d1798f034f"}, "firstName": "Paul John", "lastName": "De Leon", "userName": "The_Suspect", "passWord": "pbkdf2:sha256:150000$sYREiicA$6cf3220f423bcc89a253f9a4a126bdf9d661b30882fd76da5cbab1495f81f185", "dateCreated": {"$date": 1579284797370}, "address": "Pandacan, Manila", "contactNo": "+639052329675", "email": "pjdeleon@gmail.com", "age": 21}, {"_id": {"$oid": "5e25bf890c4f94c7b52402ca"}, "firstName": "Jan Luis", "lastName": "Tura", "userName": "TURA12", "passWord": "pbkdf2:sha256:150000$nOsFhYG1$f79e19a3474fe0842332f1091f745efcf357e2f2bbf5a791706cee6ea54cfec6", "dateCreated": {"$date": 1579560969086}, "address": "2472 M. Dela Cruz St. Pasay, City", "contactNo": "+639060512752", "email": "jtura@agsx.net", "age": 21}, {"_id": {"$oid": "5e25c0c54e02ea340e2b6b78"}, "firstName": "Patrick", "lastName": "Logan", "userName": "trick21", "passWord": "pbkdf2:sha256:150000$02vpf9hL$5f16e30af684fa501f2a174a26050a062de5358983c360f21a92353a144ccfee", "dateCreated": {"$date": 1579561285309}, "address": "Tondo, Manila", "contactNo": "+639052329675", "email": "patrickercynlogan@gmail.com", "age": 21}, {"_id": {"$oid": "5e286ac2b6b652e406a1d6b2"}, "firstName": "Russell", "lastName": "Reformado", "userName": "pro1511", "passWord": "pbkdf2:sha256:150000$4wrOVJlJ$a794869b6b9c50d67465aaaf3ecfff4e21cf8104cf23ef26ed6f84f6b10b841b", "dateCreated": {"$date": 1579735874118}, "address": "Majayjay, Laguna", "contactNo": "+639052329674", "email": "iamrussell@gmail.com", "age": 21}, {"_id": {"$oid": "5e286b0eb6b652e406a1d6b3"}, "firstName": "Mark Jayvee", "lastName": "Paz", "userName": "jibeh122", "passWord": "pbkdf2:sha256:150000$HcXn1Mrg$e091bbc81c736fc73549ee2f205d64ca6be897b15fa59f19461881300bb4eb64", "dateCreated": {"$date": 1579735950081}, "address": "Lancaster, New Cavite City", "contactNo": "+639052329672", "email": "markjayveepaz@gmail.com", "age": 21}, {"_id": {"$oid": "5e286b35b6b652e406a1d6b4"}, "firstName": "Patricia", "lastName": "Bulosan", "userName": "patronicles", "passWord": "pbkdf2:sha256:150000$Btq22lMi$f46f71fb3bd7858d5f138b1802a09e8a6bf326f237a40e1b3f37d118276d65b2", "dateCreated": {"$date": 1579735989966}, "address": "Bacoor, Cavite City", "contactNo": "+639052329671", "email": "patriciabulosan@gmail.com", "age": 22}, {"_id": {"$oid": "5e286b57b6b652e406a1d6b5"}, "firstName": "Genessie", "lastName": "Canlas", "userName": "enchie122", "passWord": "pbkdf2:sha256:150000$fwL8JTd8$8edf087216caadf54c6ee2d0a2fab4e55f48d5e998371f02a3b066c80bfc2547", "dateCreated": {"$date": 1579736023101}, "address": "Tondo, Manila", "contactNo": "+639052329670", "email": "genessiecanlas@gmail.com", "age": 22}, {"_id": {"$oid": "5e286b8db6b652e406a1d6b6"}, "firstName": "Mark Jasper", "lastName": "Vina", "userName": "Rias", "passWord": "pbkdf2:sha256:150000$GVv7MAlr$047beee2eb647a5653997eb66c8a526a4c70873d6764ec5e9e8cdccc6a431e33", "dateCreated": {"$date": 1579736077084}, "address": "Bacoor, Cavite", "contactNo": "+639052329669", "email": "markjaspervina@gmail.com", "age": 26}, {"_id": {"$oid": "5e286ba9b6b652e406a1d6b7"}, "firstName": "Julien", "lastName": "Cordero", "userName": "yenyen122", "passWord": "pbkdf2:sha256:150000$NKemxGyk$3972ec8aa97c35b1100f74c601c3a5863475af8caf7b9bdc75787bd345c1449a", "dateCreated": {"$date": 1579736105173}, "address": "Bulacan, Bulacan", "contactNo": "+639052329668", "email": "juliencordero@gmail.com", "age": 24}, {"_id": {"$oid": "5e286be7b6b652e406a1d6b8"}, "firstName": "Camille", "lastName": "Balcos", "userName": "cams122", "passWord": "pbkdf2:sha256:150000$FequAxBi$d9a48993c51540425bfd339501fd0faa92131417f5c4aa543e1143cfdfec78fb", "dateCreated": {"$date": 1579736167047}, "address": "Balic Balic, Manila", "contactNo": "+639052329673", "email": "camillebalcos@gmail.com", "age": 21}, {"_id": {"$oid": "5e37e8bf405ab66fee6047d2"}, "firstName": "Ernn Joshua", "lastName": "Tura", "userName": "NERO07", "passWord": "pbkdf2:sha256:150000$XuddT61l$bfe820d500c0cd6203475efd7f19ed55d5bb2737520c7c55786a661818527123", "dateCreated": {"$date": 1580751167157}, "address": "2472 M. Dela Cruz St. Pasay, City", "contactNo": "+639052329676", "email": "nero@gmail.com", "age": 24}, {"_id": {"$oid": "5e71c65be95b9756c49e4355"}, "firstName": "Ruby", "lastName": "Rose", "userName": "RWBY", "passWord": "password", "dateCreated": {"$date": 1584543451680}, "address": "beacon", "contactNo": "09152140263", "age": 15}
+
+
+
+/var/lib/ceph/osd/ceph-7
+
+su00095913
+/dev/sdi1     /var/lib/ceph/osd/ceph-23
+/dev/sdh1     /var/lib/ceph/osd/ceph-20
+/dev/sdk1     /var/lib/ceph/osd/ceph-29
+/dev/sdb1     /var/lib/ceph/osd/ceph-2
+/dev/sdc1     /var/lib/ceph/osd/ceph-4
+/dev/sdd1     /var/lib/ceph/osd/ceph-8
+/dev/sdj1     /var/lib/ceph/osd/ceph-26
+/dev/sde1     /var/lib/ceph/osd/ceph-11
+/dev/sdf1     /var/lib/ceph/osd/ceph-14
+/dev/sdg1     /var/lib/ceph/osd/ceph-17
+
+su00095915
+/dev/sdh1     /var/lib/ceph/osd/ceph-18
+/dev/sde1     /var/lib/ceph/osd/ceph-9
+/dev/sdd1     /var/lib/ceph/osd/ceph-6
+/dev/sdc1     /var/lib/ceph/osd/ceph-3
+/dev/sdg1     /var/lib/ceph/osd/ceph-15
+/dev/sdk1     /var/lib/ceph/osd/ceph-27
+/dev/sdb1     /var/lib/ceph/osd/ceph-0
+/dev/sdj1     /var/lib/ceph/osd/ceph-24
+/dev/sdi1     /var/lib/ceph/osd/ceph-21
+/dev/sdf1     /var/lib/ceph/osd/ceph-12
+
+su00095911
+/dev/sdf1     /var/lib/ceph/osd/ceph-13
+/dev/sdh1     /var/lib/ceph/osd/ceph-19
+/dev/sdk1     /var/lib/ceph/osd/ceph-28
+/dev/sde1     /var/lib/ceph/osd/ceph-10
+/dev/sdd1     /var/lib/ceph/osd/ceph-7
+/dev/sdi1     /var/lib/ceph/osd/ceph-22
+/dev/sdj1	  /var/lib/ceph/osd/ceph-25
+/dev/sdc1     /var/lib/ceph/osd/ceph-5
+/dev/sdg1     /var/lib/ceph/osd/ceph-16
+/dev/sdb1     /var/lib/ceph/osd/ceph-1
+
+
+userdel hive
+userdel zookeeper
+userdel oozie
+userdel ams
+userdel tez
+userdel zeppelin
+userdel spark
+userdel ambari-qa
+userdel hdfs
+userdel sqoop
+userdel yarn
+userdel mapred
+userdel hbase
+userdel knox
+userdel hcat
+
+https://eman.evingid.pw/kuxeso.php?u=10%20gb%20csv%20file%20download
+
+10.10.46.80		ceph-admin.amihan.net	ceph-admin
+10.10.46.81     ceph-monitor.amihan.net ceph-monitor
+10.10.46.82     ceph-osd1.amihan.net    ceph-osd1
+10.10.46.83     ceph-osd2.amihan.net    ceph-osd2
+10.10.46.84     ceph-osd3.amihan.net    ceph-osd3
+10.10.46.85     ceph-client.amihan.net  ceph-client
+
+
+

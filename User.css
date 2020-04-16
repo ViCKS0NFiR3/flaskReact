@@ -1,0 +1,14 @@
+.userList .pagelink{
+    text-decoration: none;
+    color: white;
+  }
+  
+.userList {
+    color: white;
+}
+  
+.userList li{
+    font-size: 20px;
+    list-style-type: none;
+    color: white;
+}
